@@ -8,4 +8,8 @@ This is a simple cartoonify project which takes in a picture as input and convrt
 
 # canny vs adaptive thresholding
 
+# Examples
+
+<img src="./Assets/example1.png">
+<img src="./Assets/example2.png">
 # Conclusion
