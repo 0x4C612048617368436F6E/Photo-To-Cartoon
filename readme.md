@@ -12,4 +12,5 @@ This is a simple cartoonify project which takes in a picture as input and convrt
 
 <img src="./Assets/example1.png">
 <img src="./Assets/example2.png">
+<img src="./Assets/example3.png">
 # Conclusion
